@@ -1,0 +1,24 @@
+7843f55bcd32f37b1031e16369ac8a1d
+
+https://api.weibo.com/oauth2/authorize?client_id=475243853&redirect_uri=https://api.weibo.com/oauth2/default.html&response_type=code
+Hit enter when it's done.[Enter]:7843f55bcd32f37b1031e16369ac8a1d
+0    INFO  [2015-10-29 08:51:04]  code: 7843f55bcd32f37b1031e16369ac8a1d
+132  DEBUG [2015-10-29 08:51:04]  Request:
+132  DEBUG [2015-10-29 08:51:04]  POSThttps://api.weibo.com/oauth2/access_token
+3116 DEBUG [2015-10-29 08:51:07]  Response:
+3116 DEBUG [2015-10-29 08:51:07]  https StatusCode:200
+3116 DEBUG [2015-10-29 08:51:07]  Server:nginx/1.6.1
+3116 DEBUG [2015-10-29 08:51:07]  Date:Thu, 29 Oct 2015 02:17:21 GMT
+3116 DEBUG [2015-10-29 08:51:07]  Content-Type:text/plain;charset=UTF-8
+3116 DEBUG [2015-10-29 08:51:07]  Content-Length:117
+3116 DEBUG [2015-10-29 08:51:07]  Connection:keep-alive
+3116 DEBUG [2015-10-29 08:51:07]  Pragma:No-cache
+3116 DEBUG [2015-10-29 08:51:07]  Cache-Control:no-cache
+3116 DEBUG [2015-10-29 08:51:07]  Expires:Thu, 01 Jan 1970 00:00:00 GMT
+3116 DEBUG [2015-10-29 08:51:07]  Api-Server-IP:10.73.89.48
+3116 DEBUG [2015-10-29 08:51:07]  SINA-LB:aGEuMTc1LmcxLnNlLmxiLnNpbmFub2RlLmNvbQ==
+3116 DEBUG [2015-10-29 08:51:07]  SINA-TS:NGI4OGMzNjggMCAxIDEgOCAxNwo=
+3228 DEBUG [2015-10-29 08:51:07]  {"access_token":"2.00Xt8SfC08dEKWb197c2ba54gbMGPC","remind_in":"157679999","expires_in":157679999,"uid":"2442492575"}
+
+AccessToken [accessToken=2.00Xt8SfC08dEKWb197c2ba54gbMGPC, expireIn=157679999, refreshToken=,uid=2442492575]
+"Administrator" Sid: S-1-5-21-1651201501-3180925306-1901203182-500
